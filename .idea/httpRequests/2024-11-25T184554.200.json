@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nome": "Gol PIka",
+    "descricao": "Smartphone com câmera avançada",
+    "preco": 2499.99,
+    "imagemString": "https://scontent.fbnu1-1.fna.fbcdn.net/v/t39.30808-6/467974231_122198372348226876_4127271583046575850_n.jpg?stp=dst-jpg_s960x960&_nc_cat=111&ccb=1-7&_nc_sid=946e27&_nc_eui2=AeFnLQnsgtNNyZS6QQ0SstXFBmHvt7lderUGYe-3uV16ta69jD_xhewhGmidCZZDcEWpOjMf6aVaqUIDIthlYDpw&_nc_ohc=DtbjT_fCJBAQ7kNvgGOwjx4&_nc_zt=23&_nc_ht=scontent.fbnu1-1.fna&_nc_gid=ApQ9uFuP9Qn3oOQF87lV87R&oh=00_AYAEWY__YVp9X0EWwovIxb1p2YHOP41NL49eGs3lNeQXaA&oe=6745AD07"
+  },
+  {
+    "id": 2,
+    "nome": "Produto 1",
+    "descricao": "Descrição do produto 1",
+    "preco": 19.99,
+    "imagemString": "https://img.freepik.com/fotos-gratis/mulher-cansada-levanta-dois-halteres-trabalha-o-biceps-e-determinado-homem-com-a-barba-por-fazer-carrega-karemat-para-treino-de-ginastica_273609-33458.jpg?t=st=1732235849~exp=1732239449~hmac=49d0271b12372066fcc3225389fe8f7c250d2668fbaf0ffecb2fee5062e8ff69&w=1060"
+  },
+  {
+    "id": 3,
+    "nome": "Produto 2",
+    "descricao": "Descrição do produto 2",
+    "preco": 29.99,
+    "imagemString": "https://imgs.search.brave.com/IQ5068yQ6thuTbXu0yAooK-GaA7lGqzFE4OwFFHr6c0/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzI5LzUw/Lzg5LzI5NTA4OWFk/OGI0Y2E0MTExMmU5/ZDNjMTA2YzgxMDUz/LmpwZw"
+  },
+  {
+    "id": 4,
+    "nome": "Produto 3",
+    "descricao": "Descrição do produto 3",
+    "preco": 39.99,
+    "imagemString": "https://via.placeholder.com/150"
+  }
+]
