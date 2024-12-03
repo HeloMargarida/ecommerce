@@ -11,7 +11,7 @@ public class Produto {
     private double preco;
     private String imagemString;
 
-    // Getters e Setters
+
     public int getId() {
         return id;
     }

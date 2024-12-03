@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d6283567-4c05-4be0-bdf3-74cc2ff5ad32" name="Changes" comment="" />
+    <list default="true" id="d6283567-4c05-4be0-bdf3-74cc2ff5ad32" name="Changes" comment="ProjectBackApiAulaWebApplication">
+      <change beforePath="$PROJECT_DIR$/.idea/httpClient.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project_back_api_aula_web/Controler/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project_back_api_aula_web/Controler/ProdutoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/project_back_api_aula_web/model/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/project_back_api_aula_web/model/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/example/project_back_api_aula_web/Controler/ProdutoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/example/project_back_api_aula_web/Controler/ProdutoController.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +24,21 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Noclipssz&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Noclipssz/Project-FullStack-.git&quot;,
+    &quot;accountId&quot;: &quot;b4affb07-e2f8-4f29-b271-048deda6cfab&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -31,6 +53,7 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2oliU5mF0B1c95qBLAXDGncOV3A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,8 +67,10 @@
     &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;Spring Boot.ProjectBackApiAulaWebApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-22&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kairo/Desktop/Project_Back_api_aula_web&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -96,10 +121,31 @@
       <workItem from="1732282595382" duration="23000" />
       <workItem from="1732571127559" duration="1590000" />
       <workItem from="1732578680946" duration="5000" />
+      <workItem from="1732658378168" duration="758000" />
+      <workItem from="1732926206107" duration="1399000" />
+      <workItem from="1732989375632" duration="9000" />
+      <workItem from="1732993475238" duration="8288000" />
+      <workItem from="1733174606187" duration="432000" />
+      <workItem from="1733175146179" duration="415000" />
+      <workItem from="1733178243621" duration="13000" />
+      <workItem from="1733183997107" duration="967000" />
     </task>
+    <task id="LOCAL-00001" summary="ProjectBackApiAulaWebApplication">
+      <option name="closed" value="true" />
+      <created>1732658731168</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1732658731168</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ProjectBackApiAulaWebApplication" />
+    <option name="LAST_COMMIT_MESSAGE" value="ProjectBackApiAulaWebApplication" />
   </component>
 </project>

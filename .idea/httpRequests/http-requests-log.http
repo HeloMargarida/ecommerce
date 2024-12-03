@@ -1,3 +1,23 @@
+GET http://localhost:8080/produto?sortBy=unsTmvBc&order=bt7MHd5V
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-02T183024.200.json
+
+###
+
+GET http://localhost:8080/produto
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-12-01T120547.200.json
+
+###
+
 GET http://localhost:8080/produto
 User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.4
 Accept-Encoding: br, deflate, gzip, x-gzip
