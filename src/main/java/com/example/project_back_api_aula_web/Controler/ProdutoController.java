@@ -3,16 +3,15 @@ package com.example.project_back_api_aula_web.Controler;
 import com.example.project_back_api_aula_web.model.Produto;
 import com.example.project_back_api_aula_web.repository.ProdutoRepository;
 
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
+
 import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/produto")
+@CrossOrigin("*")
 public class ProdutoController {
 
     private final ProdutoRepository produtoRepository;
