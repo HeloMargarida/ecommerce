@@ -1,10 +1,11 @@
 package com.example.project_back_api_aula_web.repository;
 
-import com.example.project_back_api_aula_web.model.Produto;
+import java.util.List;
+
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
 
-import java.util.List;
+import com.example.project_back_api_aula_web.model.Produto;
 
 @Repository
 public class ProdutoRepository {
